@@ -1,0 +1,14 @@
+[
+    {
+        "name": "theme_info",
+        "theme_name": "Shopify GH Integration",
+        "theme_version": "1.0.0",
+        "theme_author": "ulysses-ck"
+    },
+    {
+        "type": "image_picker",
+        "id": "logo",
+        "label": "Logo",
+        "info": "Upload a logo to display in the header"
+    }
+]

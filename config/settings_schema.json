@@ -3,12 +3,18 @@
         "name": "theme_info",
         "theme_name": "Shopify GH Integration",
         "theme_version": "1.0.0",
-        "theme_author": "ulysses-ck"
+        "theme_author": "ulysses-ck",
+        "theme_support_email": "ulisesapaza.280@gmail.com",
+        "theme_documentation_url": "https://github.com/ulysses-ck/shopify-gh-integration"
     },
     {
-        "type": "image_picker",
-        "id": "logo",
-        "label": "Logo",
-        "info": "Upload a logo to display in the header"
+        "name": "logo",
+        "settings": [
+            {
+                "type": "image_picker",
+                "id": "logo",
+                "label": "Logo"
+            }
+        ]
     }
 ]
